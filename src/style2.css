@@ -1,0 +1,106 @@
+/* What we offer */
+
+
+position: absolute;
+width: 406px;
+height: 58px;
+left: calc(50% - 406px/2);
+top: calc(50% - 58px/2 - 438px);
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 58px;
+/* identical to box height */
+
+text-align: center;
+text-transform: uppercase;
+
+color: #00A3FF;
+
+
+
+/* Lorem ipsum dolor sit amet consectetur. At faucibus nibh lacus aliquet a. Hac tellus condimentum et tellus. */
+
+
+position: absolute;
+width: 500px;
+height: 56px;
+left: 470px;
+top: 126px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+text-transform: lowercase;
+
+color: #000000;
+
+
+
+/* Rectangle 1 */
+
+
+position: absolute;
+width: 250px;
+height: 250px;
+left: calc(50% - 250px/2);
+top: calc(50% - 250px/2);
+
+background: #FFFFFF;
+
+
+/* Lorem ipsum dolor sit amet consectetur. Sit habitant dolor id imperdiet malesuada. Iaculis feugiat porttitor auctor amet convallis diam. */
+
+
+position: absolute;
+width: 239px;
+height: 95px;
+left: calc(50% - 239px/2 + 5.5px);
+top: calc(50% - 95px/2 + 31.5px);
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+text-transform: capitalize;
+
+color: #000000;
+
+
+
+/* Group 1 */
+
+
+position: absolute;
+width: 250px;
+height: 250px;
+left: 441px;
+top: 214px;
+
+
+
+/* Group 2 */
+
+
+position: absolute;
+width: 250px;
+height: 250px;
+left: 701px;
+top: 213px;
+
+
+
+/* Group 3 */
+
+
+position: absolute;
+width: 250px;
+height: 250px;
+left: 970px;
+top: 214px;
